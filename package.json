@@ -1,0 +1,11 @@
+{
+  "name": "gate-api-use",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:binperson/gate-api-use.git",
+  "author": "Xingguo.Xu <Xingguo.Xu@geely.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gate-api": "^5.23.0"
+  }
+}
